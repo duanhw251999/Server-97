@@ -1,3 +1,4 @@
+#!/bin/bash
 #set ff=unix
 
 path0=/pardata/EDADATA/INTERFACE/BSS/BACKUP/
